@@ -1,0 +1,6 @@
+{
+  "name": "Workloom",
+  "description": "Fair work. Stronger workplaces. A decent-work platform bringing shift attendance, transparent pay, workplace safety reporting, and workforce insights together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
